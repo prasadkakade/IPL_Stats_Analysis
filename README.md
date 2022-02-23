@@ -1,2 +1,4 @@
 # IPL_Stats_Analysis
-Create infographic of Match statistics, Team statistics, Player Statistics for a news company using Tableau
+
+* Please open tableaua file to see the analysis performed
+* To see the approach and tableau plots directly you can go through the PPT  `IPL Stats Analysis.pptx`
